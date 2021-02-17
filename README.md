@@ -10,7 +10,7 @@
 #### Clone 
 
 ```sh
-git clone https://github.com/Abhijith-cloud/TelegramFiletoCloud.git
+git clone https://github.com/XelilTurk/TelegramFiletoCloud.git
 
 cd TelegramFiletoCloud
 
